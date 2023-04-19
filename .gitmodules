@@ -1,6 +1,6 @@
 [submodule "swappify-image-open"]
 	path = swappify-image-open
 	url = git@github.com:Krzysztof-Kolodziejczyk/swappify-image-open.git
-[submodule "swappify-front-api"]
-	path = swappify-front-api
-	url = git@github.com:Krzysztof-Kolodziejczyk/swappify-front-api.git
+[submodule "swappify-be"]
+	path = swappify-be
+	url = git@github.com:Krzysztof-Kolodziejczyk/swappify-be.git
