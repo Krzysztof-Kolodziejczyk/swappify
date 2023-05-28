@@ -3,4 +3,7 @@
 	url = git@github.com:Krzysztof-Kolodziejczyk/swappify-image-open.git
 [submodule "swappify-be"]
 	path = swappify-be
-	url = git@github.com:Krzysztof-Kolodziejczyk/swappify-be.git
+	url = https://github.com/Krzysztof-Kolodziejczyk/swappify-backend
+[submodule "swappify-front"]
+	path = swappify-front
+	url = https://github.com/Krzysztof-Kolodziejczyk/swappify-front
