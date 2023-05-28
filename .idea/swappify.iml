@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/swappify-be">
+      <sourceFolder url="file://$MODULE_DIR$/swappify-be/swappify-auth-connector/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/swappify-be/swappify-front-api/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/swappify-be/swappify-front-api/src/test/java" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5eb4427-54e1-4045-8d33-d852df8c403b" name="Changes" comment="Added .gitmodules." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/swappify-be">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/swappify-front-api">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/swappify-image-open">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/swappify_backend">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/swappify_backend">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/swappify-be">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/swappify-front-api">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="swappify-front-api" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="swappify-front-api" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="swappify-front-api" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MkpNSsODGpgRxwkG6m8mlBorL0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "temurin-11",
+    "last_opened_file_path": "/Users/krzysiek/IdeaProjects/swappify",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "34d7b60a9b0e80ba81fd74b49dbc4691"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/swappify-front-api" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/swappify_backend/src/main/java/com/example/swappify/model" />
+      <recent name="$PROJECT_DIR$/swappify_backend/src/main/resources/db/postgres" />
+      <recent name="$PROJECT_DIR$/swappify_backend/src/main/java/com/example/swappify/model/entity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/swappify_backend" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.swappify.model.dto" />
+      <recent name="com.example.swappify.repository" />
+      <recent name="com.example.swappify.service" />
+      <recent name="com.example.swappify.controller" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle build" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.swappify-front-api [clean]">
+    <configuration name="swappify-front-api [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/swappify-front-api" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="swappify-front-api [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/swappify-front-api" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="swappify_backend [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/swappify-be" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="swappify_backend [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/swappify_backend" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SwappifyApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="swappify-front-api.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.swappify.SwappifyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwappifyApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="swappify-be.swappify-front-api.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.swappify.SwappifyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwappifyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="swappify-be.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.swappify.SwappifyApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.swappify.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwappifyFrontApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="swappify-front-api.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.swappifyfrontapi.SwappifyFrontApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwappifyImageOpenApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="swappify-image-open.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.swappify_image_open.SwappifyImageOpenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwappifyImageOpenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="swappify-image-open.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.swappifyimageopen.SwappifyImageOpenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.swappify-front-api [build]" />
+      <item itemvalue="Gradle.swappify-front-api [clean]" />
+      <item itemvalue="Gradle.swappify_backend [build]" />
+      <item itemvalue="Gradle.swappify_backend [clean]" />
+      <item itemvalue="Spring Boot.SwappifyApplication (2)" />
+      <item itemvalue="Spring Boot.SwappifyImageOpenApplication (1)" />
+      <item itemvalue="Spring Boot.SwappifyApplication (1)" />
+      <item itemvalue="Spring Boot.SwappifyFrontApiApplication" />
+      <item itemvalue="Spring Boot.SwappifyImageOpenApplication" />
+      <item itemvalue="Spring Boot.SwappifyApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.swappify-front-api [clean]" />
+        <item itemvalue="Gradle.swappify-front-api [build]" />
+        <item itemvalue="Gradle.swappify_backend [build]" />
+        <item itemvalue="Gradle.swappify_backend [clean]" />
+        <item itemvalue="Spring Boot.SwappifyApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5eb4427-54e1-4045-8d33-d852df8c403b" name="Changes" comment="" />
+      <created>1678321394750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678321394750</updated>
+      <workItem from="1678321396912" duration="1608000" />
+      <workItem from="1678967426722" duration="953000" />
+      <workItem from="1679520122710" duration="1370000" />
+      <workItem from="1681766273237" duration="8639000" />
+      <workItem from="1681828067462" duration="2839000" />
+      <workItem from="1681831429246" duration="287000" />
+      <workItem from="1681946449712" duration="699000" />
+      <workItem from="1681947171166" duration="1741000" />
+      <workItem from="1681949459293" duration="455000" />
+      <workItem from="1685316306223" duration="330000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added backend module.">
+      <created>1678321635460</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678321635460</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added frontend module.">
+      <created>1679520353719</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679520353719</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix .gitignore.">
+      <created>1679521239121</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679521239121</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added user authentication.">
+      <created>1681778994383</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681778994383</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Change module name.">
+      <created>1681829149558</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681829149558</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added submodules">
+      <created>1681831608022</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681831608022</updated>
+    </task>
+    <task id="LOCAL-00007" summary="remove .gitignore">
+      <created>1681831673955</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681831673955</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Changed submodules.">
+      <created>1681948705653</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681948705653</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added image open.">
+      <created>1681949347064</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681949347064</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Removed front-api.">
+      <created>1681949392200</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681949392200</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added swappify-be.">
+      <created>1681949843198</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1681949843198</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added .gitmodules.">
+      <created>1681949890585</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1681949890585</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-websocket" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate.validator:hibernate-validator" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-messaging" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added backend module." />
+    <MESSAGE value="Added frontend module." />
+    <MESSAGE value="fix .gitignore." />
+    <MESSAGE value="Added user authentication." />
+    <MESSAGE value="Change module name." />
+    <MESSAGE value="Added submodules" />
+    <MESSAGE value="remove .gitignore" />
+    <MESSAGE value="Changed submodules." />
+    <MESSAGE value="Added image open." />
+    <MESSAGE value="Removed front-api." />
+    <MESSAGE value="Added swappify-be." />
+    <MESSAGE value="Added .gitmodules." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added .gitmodules." />
+  </component>
+</project>
